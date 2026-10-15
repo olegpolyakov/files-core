@@ -1,0 +1,1 @@
+export { default as File, type FileData } from './file';
